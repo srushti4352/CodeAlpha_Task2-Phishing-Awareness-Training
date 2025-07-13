@@ -116,30 +116,9 @@ Best practices for prevention
 
 ## Code(quiz.html)
 
-<!-- templates/quiz.html -->
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Phishing Quiz</title>
-  <script src="/static/script.js" defer></script>
-</head>
-<body>
-  <h1>🧠 Phishing Awareness Quiz</h1>
-  <form id="quiz-form">
-    <p>1. What is a sign of phishing?</p>
-    <input type="radio" name="q1" value="A"> Professional language only<br>
-    <input type="radio" name="q1" value="B"> Spelling errors and urgent tone<br>
 
-    <p>2. What should you do if you suspect a phishing email?</p>
-    <input type="radio" name="q2" value="A"> Click the link to verify<br>
-    <input type="radio" name="q2" value="B"> Report it to IT/security team<br>
 
-    <br><input type="submit" value="Submit Quiz">
-  </form>
-
-  <div id="result"></div>
-</body>
-</html>
+  
 
 ## Output:
 <img width="542" height="364" alt="image" src="https://github.com/user-attachments/assets/7207facf-df7d-42a6-8c15-6f7a2977e197" />
