@@ -14,14 +14,13 @@ Phishing attacks are among the most common cybersecurity threats. This web-based
 ## 🗂️ Folder Structure
 
 Task2/
-├── app.py # Main Flask application
-├── templates/ # HTML templates
-│ ├── index.html # Home/landing page
-│ └── quiz.html # Quiz interface
-├── static/ # Static files
-│ ├── style.css # Custom styles
-│ └── script.js # JavaScript for interactivity
-
+├── app.py 
+├── templates/ 
+│ ├── index.html 
+│ └── quiz.html
+├── static/ 
+│ ├── style.css 
+│ └── script.js
 
 ## 🚀 How to Run the Project
 
