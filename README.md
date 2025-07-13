@@ -65,8 +65,7 @@ Best practices for prevention
 ## Output:
 <img width="958" height="539" alt="image" src="https://github.com/user-attachments/assets/107c39d1-c209-463e-9168-3f1bba5c9a24" />
 
-<img width="542" height="364" alt="image" src="https://github.com/user-attachments/assets/7207facf-df7d-42a6-8c15-6f7a2977e197" />
-
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/618ac488-8b70-4166-b243-d8fc37f26f86" />
 
 
 
